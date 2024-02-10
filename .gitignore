@@ -1,3 +1,9 @@
+# Ignore compiled binaries
+*.out
+*.exe
+*.o
+a.out
+
 # Prerequisites
 *.d
 
