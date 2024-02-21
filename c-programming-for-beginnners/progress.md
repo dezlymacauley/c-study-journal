@@ -39,6 +39,16 @@ Instructor: Jason Fedin
 
 
 ### 03 - Starting to write code
+01. Exploring the CodeLite Environment
+02. Creating our first C program
+03. Building-Compiling our first program
+04. What are Compiler Errors
+05. What are Compiler Warnings
+06. What are Linker Errors
+07. What are Runtime Errors
+08. What are Logic Errors
+09. (Challenge) Writing a C program that displays your name
+10. (Demonstration) Writing a C program that displays your name
 
 
 
