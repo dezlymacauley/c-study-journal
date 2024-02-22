@@ -37,7 +37,6 @@ Instructor: Jason Fedin
 
 ---
 
-
 ### 03 - Starting to write code
 01. Exploring the CodeLite Environment
 02. Creating our first C program
@@ -49,7 +48,6 @@ Instructor: Jason Fedin
 08. What are Logic Errors
 09. (Challenge) Writing a C program that displays your name
 10. (Demonstration) Writing a C program that displays your name
-
-
+11. Structure of a C program
 
 ---
