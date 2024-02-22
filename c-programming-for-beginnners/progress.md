@@ -51,3 +51,24 @@ Instructor: Jason Fedin
 11. Structure of a C program
 
 ---
+
+### 04 - Basic Concepts
+01. Comments
+02. The preprocessor
+03. The #include statement
+04. Displaying Output
+05. Reading input from terminal
+
+---
+
+### 05 - Variables and Data Types
+01. Overview
+02. Basic Data Types
+03. Enums and Char
+04. (Challenge) Create and use an enum type
+05. (Demonstration) Create an use an enum type
+06. Format Specifiers
+07. (Challenge) Print the Area of a Rectangle
+08. (Demonstration) Print the Area of a Rectangle
+
+---

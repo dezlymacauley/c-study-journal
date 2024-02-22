@@ -2,7 +2,11 @@
 // %s = strings
 // %d = integers (whole numbers)
 // %c = character
+
 // %f = floating points (numbers with decimimals)
+// To specify the number of numbers after the decimal point,
+// you can do this: %.2f. That means 2 decimals
+
 // %lf = doubles (E.g. 77.8)
 
 // ----------------------------------------------------------------------------
