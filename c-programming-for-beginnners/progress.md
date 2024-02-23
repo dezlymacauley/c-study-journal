@@ -70,5 +70,12 @@ Instructor: Jason Fedin
 06. Format Specifiers
 07. (Challenge) Print the Area of a Rectangle
 08. (Demonstration) Print the Area of a Rectangle
+09. Command line arguements
+
+---
+
+### 19 - Conclusion
+01. Further Topics of Study
+02. Course Summary
 
 ---
