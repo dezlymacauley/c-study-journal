@@ -74,6 +74,26 @@ Instructor: Jason Fedin
 
 ---
 
+### 06 - Operators
+01. Overview
+02. Basic Operators
+03. (Challenge) Convert minutes to years and days
+04. (Demonstration) Convert minutes to years and days
+
+[Not finished yet]
+
+---
+
+### 07 - Control Flow
+01. Overview
+02. If Statements
+03. (Challenge) Determine amount of pay
+04. (Demonstration) Determine the amount of pay 
+05. Switch Statement
+
+
+---
+
 ### 19 - Conclusion
 01. Further Topics of Study
 02. Course Summary
