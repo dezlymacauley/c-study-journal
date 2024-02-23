@@ -91,7 +91,6 @@ Instructor: Jason Fedin
 04. (Demonstration) Determine the amount of pay 
 05. Switch Statement
 
-
 ---
 
 ### 19 - Conclusion

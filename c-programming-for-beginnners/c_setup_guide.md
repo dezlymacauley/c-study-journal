@@ -56,6 +56,21 @@ gcc HelloWorld.c --std=c99
 
 ---
 
+How to check what is the default version on your computer?
+
+gcc -dM -E -x c /dev/null | grep -E '(__STDC_VERSION__|__cplusplus)'
+```
+gcc -dM -E -x c /dev/null | grep '__STDC_VERSION__'
+```
+
+You will get an output that looks like this:
+
+#define __STDC_VERSION__ 201710L
+
+This is the equivalent of --std=c17
+
+---
+
 How to compile with a specific name:
 
 ```
