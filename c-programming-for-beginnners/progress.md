@@ -91,11 +91,14 @@ Instructor: Jason Fedin
 04. (Demonstration) Determine the amount of pay 
 05. Switch Statement
 
+[Not finished yet]
+
 ---
 
 ### 12 - Pointer Basics
 01. Overview
 02. Defining Pointers
+03. Accessing Pointers [Continue Here]
 
 ---
 
