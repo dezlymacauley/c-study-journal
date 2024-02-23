@@ -93,6 +93,12 @@ Instructor: Jason Fedin
 
 ---
 
+### 12 - Pointer Basics
+01. Overview
+02. Defining Pointers
+
+---
+
 ### 19 - Conclusion
 01. Further Topics of Study
 02. Course Summary
