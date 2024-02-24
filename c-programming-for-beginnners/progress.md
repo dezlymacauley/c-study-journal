@@ -117,6 +117,11 @@ Instructor: Jason Fedin
 
 ---
 
+### 18 - The Standard C Library
+01. Standard Header Files
+
+---
+
 ### 19 - Conclusion (Completed)
 01. Further Topics of Study
 02. Course Summary
