@@ -108,10 +108,12 @@ Instructor: Jason Fedin
 
 ---
 
-### 12 - Pointer Basics
+### 12 - Pointer Basics (Completed)
 01. Overview
 02. Defining Pointers
-03. Accessing Pointers [Continue Here]
+03. Accessing Pointers 
+04. (Challenge) Pointer Basics
+05. (Demonstration) Pointer Basics
 
 ---
 
