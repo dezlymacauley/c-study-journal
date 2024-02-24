@@ -8,7 +8,7 @@ Instructor: Jason Fedin
 
 ## Completed Lessons / Chapters:
 
-### 01 - Introduction
+### 01 - Introduction (Completed)
 01. Welcome to class
 02. Class Organization
 03. Fundamentals of a program
@@ -18,7 +18,7 @@ Instructor: Jason Fedin
 
 ---
 
-### 02 - Installing Required Software
+### 02 - Installing Required Software (Completed)
 01. Overview.mp4 
 02. Installing the C compiler (Windows).
 03. Installing Codelite on Windows 
@@ -37,7 +37,7 @@ Instructor: Jason Fedin
 
 ---
 
-### 03 - Starting to write code
+### 03 - Starting to write code (Completed)
 01. Exploring the CodeLite Environment
 02. Creating our first C program
 03. Building-Compiling our first program
@@ -52,7 +52,7 @@ Instructor: Jason Fedin
 
 ---
 
-### 04 - Basic Concepts
+### 04 - Basic Concepts (Completed)
 01. Comments
 02. The preprocessor
 03. The #include statement
@@ -61,7 +61,7 @@ Instructor: Jason Fedin
 
 ---
 
-### 05 - Variables and Data Types
+### 05 - Variables and Data Types (Completed)
 01. Overview
 02. Basic Data Types
 03. Enums and Char
@@ -70,7 +70,7 @@ Instructor: Jason Fedin
 06. Format Specifiers
 07. (Challenge) Print the Area of a Rectangle
 08. (Demonstration) Print the Area of a Rectangle
-09. Command line arguements
+09. Command line arguments
 
 ---
 
@@ -90,8 +90,21 @@ Instructor: Jason Fedin
 03. (Challenge) Determine amount of pay
 04. (Demonstration) Determine the amount of pay 
 05. Switch Statement
+06. For Loop
 
 [Not finished yet]
+
+---
+
+### 08 - Arrays (Completed)
+01. Creating and using Arrays
+02. Initialization
+03. Challenge Generate Prime Numbers
+04. Demonstration Generate Prime Numbers
+05. Multidimensional Arrays
+06. Challenge Create a simple Weather program
+07. Demonstration Create a simple Weather Program
+08. Variable Length Arrays
 
 ---
 
@@ -102,7 +115,7 @@ Instructor: Jason Fedin
 
 ---
 
-### 19 - Conclusion
+### 19 - Conclusion (Completed)
 01. Further Topics of Study
 02. Course Summary
 
